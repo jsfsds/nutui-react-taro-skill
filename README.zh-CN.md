@@ -1,5 +1,9 @@
 # NutUI React Taro Skill
 
+<p align="right">
+  <a href="README.md#readme-en">English</a> | <a href="README.md#readme-zh-cn">在主 README 中查看简体中文</a>
+</p>
+
 这是一个面向 Codex/AI coding agent 的本地 skill，用来辅助开发、审查、迁移和排查基于 `@nutui/nutui-react-taro` 的 Taro React 小程序页面。
 
 它可以帮助 agent：
@@ -9,8 +13,6 @@
 - 生成符合 Taro React 和小程序约束的页面代码；
 - 检查本地项目依赖，避免 React/Vue 包、Taro 版本、插件配置混用；
 - 排查安装、导入、图标、主题样式、`@tarojs/plugin-html`、小程序兼容性等问题。
-
-英文 README: [README.md](README.md)
 
 ## 为什么需要这个 Skill
 
